@@ -22,8 +22,6 @@ const AuthProviders = () => {
 			const res = await getProviders();
 
 			setProviders(res);
-			console.log(res);
-			
 	}
 		fetchProviders();
 	},[])

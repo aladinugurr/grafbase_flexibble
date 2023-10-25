@@ -37,7 +37,6 @@ type ProjectSearch = {
 		  (project) => project.node.category == category
 		);
 	  }
-	console.log(projectsToDisplay);
 	
 	const pagination = data?.projectSearch?.pageInfo;
 
