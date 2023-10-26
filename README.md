@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Demo Link - <a href='https://grafbase-flexibble-murex.vercel.app/'> Flexibble </a>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).<p>
+
+Demo Link - <a href='https://grafbase-flexibble-murex.vercel.app/'> Flexibble </a> <p>
 Tutorial By - <a href='https://www.youtube.com/@javascriptmastery'> javascriptmastery </>
 ## Getting Started
 
